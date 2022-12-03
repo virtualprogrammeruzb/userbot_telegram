@@ -9,4 +9,6 @@ pkg install python
 git clone 
 https://github.com/virtualprogrammeruzb/userbot_telegram            
 cd userbot_telegram    
-python userbot.py   
+python darknet.py   
+
+.
